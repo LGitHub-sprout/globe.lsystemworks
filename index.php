@@ -1,0 +1,1 @@
+<?php echo "Silence is no longer golden! Vote BLUE no matter who.";
